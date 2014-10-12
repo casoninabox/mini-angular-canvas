@@ -1,0 +1,11 @@
+{
+  "name": "ng-ccc",
+  "version": "1.0.0",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "angular": "~1.2.26",
+    "angular-ui-router": "~0.2.11",
+    "angular-ui-utils": "~0.1.1"
+  }
+}
